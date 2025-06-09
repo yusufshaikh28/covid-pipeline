@@ -27,11 +27,6 @@ TOOLS AND USAGE:
    - `New_Cases_MA7 = 7-day moving avg of New_Cases`
 4. Round metrics like `case_fatality_ratio`
 5. Output clean Parquet file to `S3/processed/`
-6. Screenshots
-ETL Flow (Glue Job)
-  [ETL Visual](screenshots/etl_visual.png)
-S3 Folder Structure
-  [S3 Structure](screenshots/s3_folder.png)
-Crawler Table Output
-  [Crawler Output](screenshots/crawler_table.png)
+6. Screenshots check folder for all screenshots
+
 
